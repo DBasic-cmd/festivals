@@ -39,7 +39,7 @@ p,h3{
 .team-boxed {
   color:#313437;
   background-color:#F6F5F5;
-  margin-top: 100px;
+  margin-top: 30px;
 }
 .team-boxed h2, .customers-review h2 {
   font-weight:bold;
@@ -105,7 +105,7 @@ p,h3{
 
 .team-boxed .social {
   font-size:18px;
-  color:#667490;
+  color:var(--white-color);
 }
 
 .team-boxed .social a {
